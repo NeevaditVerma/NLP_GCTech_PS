@@ -4,7 +4,7 @@ A powerful tool for finding and comparing LinkedIn profiles to identify potentia
 
 ## About Recepto
 
-Recepto is a B2B sales lead generation platform that identifies buying intent from various online channels. The platform collects unstructured data, structures it, and uses it to enrich a database of millions of people profiles. Through sophisticated algorithms, Recepto defines the relevance and strength of buying intent based on a variety of factors.
+Recepto is a B2B sales lead generation platform that identifies buying intent from various online channels. The platform collects unstructured data, structures it, and uses it to enrich a database of millions of people profiles. Through sophisticated algorithms, Recepto defines the relevance and strength of buying intent based on a variety of factors..
 
 ## Project Overview
 
